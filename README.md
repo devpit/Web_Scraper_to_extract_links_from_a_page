@@ -1,6 +1,6 @@
-# Web Scraper para Extrair Links de uma Página HTML
+# Web Scraper para Extrair Links de uma Página
 
-Este script Python utiliza as bibliotecas `requests` e `BeautifulSoup` para realizar web scraping em uma página HTML especificada. O objetivo é extrair todos os links (`<a>`) presentes na página.
+Este script Python utiliza as bibliotecas `requests` e `BeautifulSoup` para realizar web scraping em uma página especificada. O objetivo é extrair todos os links (`<a>`) presentes na página.
 
 ## Como Usar
 
